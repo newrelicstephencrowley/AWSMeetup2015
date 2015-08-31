@@ -1,6 +1,6 @@
 source "https://api.berkshelf.com" 
 
-metdata
+metadata
 
 cookbook 'newrelic'
 cookbook 'newrelic_plugins'
