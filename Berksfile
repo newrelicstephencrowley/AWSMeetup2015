@@ -1,2 +1,2 @@
-source "https://supermarket.chef.io/" 
-cookbook 'newrelic'
+source "https://api.berkshelf.com"
+cookbook "newrelic"
